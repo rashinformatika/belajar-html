@@ -1,48 +1,50 @@
 body {
-    background:#f3f3f3;
-    color:#333;
-    width:100%;
-    font-family:sans-serif;
-    margin:0 auto;
+    background: #D0E3FF;
+    color: #F7F2EB;
+    width: 100%;
+    font-family: sans-serif;
+    margin: 0 auto;
 }
 
 .header {
-    width:90%;
-    margin:auto;
-    height:120px;
-    line-height:120px;
-    background:#417aa8;
-    color:#fff;
+    width: 90%;
+    margin: auto;
+    height: 120px;
+    line-height: 120px;
+    background: #081F5C;
+    color: #F7F2EB;
 }
 
 .jarak {
-    padding:0 2pc;
+    padding: 0 2pc;
 }
 
 .menu {
-    background-color:#417aa8;
-    height:50px;
-    line-height:50px;
-    position:relative;
-    width:90%;
-    margin:0 auto;
-    padding:0 auto;
+    background-color: #081F5C;
+    height: 50px;
+    line-height: 50px;
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    padding: 0;
 }
 
 .menu ul {
-    list-style:none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 .menu ul li a {
-    float:left;
-    width:70px;
-    display:block;
-    text-align:center;
-    color:#FFF;
-    text-decoration:none;
+    float: left;
+    width: 90px;
+    display: block;
+    text-align: center;
+    color: #F7F2EB;
+    text-decoration: none;
 }
 
 .menu ul li a:hover {
-    background-color:#4b88bb;
-    display:block;
+    background-color: #4B88BB;
+    display: block;
 }
